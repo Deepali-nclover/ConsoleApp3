@@ -11,7 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             int i = 10;
-           while(i<=10)
+           while(i<=10000)
            {
                Console.WriteLine(i);
            }
