@@ -10,7 +10,9 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-           for(int i=1;i<=10000;i++)
+
+           for(int i=1;i<=20000;i++)
+
            {
                Console.WriteLine("Hello");
            }
