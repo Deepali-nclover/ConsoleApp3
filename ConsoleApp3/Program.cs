@@ -13,7 +13,7 @@ namespace ConsoleApp3
             int i = 10;
            while(i<=10)
            {
-               Console.WriteLine("Hello");
+               Console.WriteLine(i);
            }
         }
     }
